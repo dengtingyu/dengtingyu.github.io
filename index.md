@@ -4,7 +4,7 @@
 
 ## Courses
 
-[Lecture notes] (../notes)
+[Lecture notes] (./notes)
 
 ## Contact Me
  

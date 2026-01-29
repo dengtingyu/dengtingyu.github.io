@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Hello! Welcome to DTY's Post!
 ---
 

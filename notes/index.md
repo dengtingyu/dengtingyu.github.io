@@ -1,3 +1,7 @@
+---
+title: Lecture notes
+---
+
 # Lecture notes
 
 ## summer, 2025

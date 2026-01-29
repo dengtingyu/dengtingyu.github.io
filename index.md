@@ -1,6 +1,6 @@
-# Hello! Welcome to DTY's Post!
+## Hello! Welcome to DTY's Post!
 
-I'm a freshman at Peking University
+I'm a freshman at Peking University. 
 
 ## OI blog 
 

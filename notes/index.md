@@ -10,7 +10,7 @@ title: Lecture notes
 
 **winter, 2026**
 
-[Segment Tree](../notes_object/点双的一些性质.md) lecture on Feb 
+[Biconnected Graph](../notes_object/点双的一些性质.md) lecture on Feb 
 
 [Segment Tree](../notes_object/线段树专题.md) lecture on Feb 
 

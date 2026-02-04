@@ -12,6 +12,8 @@ title: Lecture notes
 
 [Biconnected Graph](../notes_object/点双的一些性质.md) lecture on Feb 
 
+[Number Theory](../notes_object/数论.md) lecture on Feb 
+
 [Segment Tree](../notes_object/线段树专题.md) lecture on Feb 
 
 [More Problems](../notes_object/杂题选讲.md) lecture on Feb

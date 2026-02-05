@@ -6,7 +6,7 @@ title: Lecture notes
 
 **summer, 2025**
 
-[Count](../notes_object/count.pdf) lecture on Feb 
+[Count](../notes_object/count.pdf) lecture on Jul
 
 [Tree problem](../notes_object/树上问题.pptx) lecture on Jul
 

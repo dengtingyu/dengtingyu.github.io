@@ -25,3 +25,5 @@ title: Lecture notes
 [Dynamic Programming](../notes_object/dp_student.pdf) lecture on Jul
 
 [Miscellaneous Problems](../notes_object/misc_student.pdf) lecture on Jul
+
+[Fun Problems](../notes_object/misc_fun_student.pdf) lecture on Jul

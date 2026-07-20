@@ -19,3 +19,9 @@ title: Lecture notes
 [Segment Tree](../notes_object/线段树专题.md) lecture on Feb 
 
 [More Problems](../notes_object/杂题选讲.md) lecture on Feb
+
+**summer, 2026**
+
+[Dynamic Programming](../notes_object/dp_student.pdf) lecture on Jul
+
+[Miscellaneous Problems](../notes_object/misc_student.pdf) lecture on Jul
